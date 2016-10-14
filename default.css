@@ -1,0 +1,13 @@
+p.title {
+	color: red;
+	text-align: center;
+	font-size: 2em;
+	border: 2px solid blue;
+	border-radius: 6px;
+	margin: 50px 75px 50px 75px;
+	padding: 20px 25px 20px 25px;
+}
+p.text{
+	margin: 5px 75px 5px 75px;
+	font-size: 1em;
+}
